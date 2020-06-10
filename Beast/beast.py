@@ -1,6 +1,6 @@
 import wolframalpha
 
-client = wolframalpha.Client("3647V2-7GHV2X2VL4")  # APi Key from Wolframalpha
+client = wolframalpha.Client("Enter Your own Wolfram API")  # APi Key from Wolframalpha
 import wikipedia                                   # Importing Wikipedia to Search Query
 import PySimpleGUI as sg                           # Importing PysimpleGui for Custom Layout
 import speech_recognition as sr                    # Importing Speech Recognitions for voice Input
